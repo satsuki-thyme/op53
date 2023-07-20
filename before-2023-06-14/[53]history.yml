@@ -1,0 +1,36 @@
+elapsed day:
+  1:
+    - episode: 1
+      place: 地球世界、異世界
+      description: 異世界召喚されてセレスに会う
+    - episode: 2
+      place: 城
+      description: エリアに会って神威を降ろす
+  2:
+    - episode: 3
+      place: 城
+      description: エリアと模擬戦をする。エリアに恋に落ちる
+  3:
+    - episode: 4
+      place: 国境の森へ向かう途中の町
+      description: エリアとセレスの魅力に翻弄される
+    - episode: 5
+      place: 国境の森へ向かう途中の町
+      description: たくさんの魔物やオーガの上位種を倒す
+  4:
+  5:
+    - episode: 6
+      place: 国境の森
+      description: 狩りに行ってセレスと恋人同士になる。ミノタウロスを倒す
+    - episode: 7
+      place: 国境の森
+      description: ロンが魔狼を倒しサラと恋人同士になる。エリアと恋人同士になる
+    - episode: 8
+      place: 国境の森
+      description: ダルクフローゼの使徒ミリアム・ハイランドに勝利する
+  6:
+  7:
+  8:
+    - episode: 9
+      place: 
+      description: 

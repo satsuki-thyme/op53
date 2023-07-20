@@ -1,0 +1,574 @@
+property:
+  title: ロストレガリア幻想詩
+existence:
+  human:
+    - name: カナタ
+      meta:
+        part:
+          - 1
+      property:
+        full name: カナタ・フジノ
+        race: 葦人
+        gender: 男
+        age: 18
+        country: アークファイス王国
+        title: 使徒
+      appearance:
+        description: 
+        hair: 黒
+        eyes: 
+      personality:
+        front side:
+          - 
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 黒
+    - name: エリア
+      meta:
+        part:
+          - 1
+      property:
+        full name: エリア・ティファリナ・ヴィア・ファネルシルト
+        race: 葦人
+        gender: 女
+        age: 17
+        country: アークファイス王国
+        title: 王
+      appearance:
+        description: 傾国の美少女、吹きすさぶ風に立ち向かう戦乙女のように｜凛々《りり》しい
+        hair: ライトゴールドでアップにしている、降ろすと肩下まである
+        eyes: ルビー
+        bust: 小振りな｜林檎《リンゴ》
+        voice: 快活さと誠実さを｜窺《うかが》わせる｜声音《こわね》だ
+        clothes: 衣装は濃青を基調として｜軽甲冑《けいかっちゅう》を｜纏《まと》っている
+      personality:
+        front side:
+          - 
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 
+    - name: セレス
+      meta:
+        part:
+          - 1
+      property:
+        full name: セレス・シャロン・ヴィア・ファネルシルト
+        race: 葦人
+        gender: 女
+        age: 16
+        country: アークファイス王国
+        title: 王の妹
+      appearance:
+        description: ｜嫋《たお》やかに咲く一輪の｜百合《ユリ》のような傾国の美少女
+        hair: 銀糸のロングヘア
+        eyes: ブルーサファイア
+        bust: 大振りな｜林檎《リンゴ》
+        voice: ｜声音《こわね》は｜淑《しと》やかさを感じさせる
+        clothes: 衣装は薄藤色を基調としてドレスのようだが神聖さを感じさせる
+      personality:
+        front side:
+          - 
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 
+    - name: グランロレル
+      meta:
+        part:
+          - 1
+      property:
+        full name: グランロレル・ヴァーレ゠フレッダ
+        race: 葦人
+        gender: 男
+        age: 56
+        country: アークファイス王国
+        title: 宮中伯
+      appearance:
+        description: 
+        hair: 
+        eyes: 
+      personality:
+        front side:
+          - 
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 
+    - name: レオナルド
+      meta:
+        part:
+          - 1
+      property:
+        full name: レオナルド・ブレサンド
+        race: ｜狼獣人《オウクナ》
+        gender: 男
+        age: 32
+        country: アークファイス王国
+        title: 兵士長
+      appearance:
+        description: 
+        hair: 
+        eyes: 
+      personality:
+        front side:
+          - 
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 
+    - name: リールー
+      meta:
+        part:
+          - 1
+      property:
+        full name: リールー・ストロベル
+        race: ｜猫獣人《ネクト》
+        gender: 女
+        age: 21
+        country: アークファイス王国
+        title: 騎士
+      appearance:
+        description: 
+        hair: 
+        eyes: 
+      personality:
+        front side:
+          - 
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 
+    - name: ライトレフ
+      meta:
+        part:
+          - 1
+      property:
+        full name: ライトレフ・クロード・ジースクエル
+        race: 葦人
+        gender: 男
+        age: 27
+        country: アークファイス王国
+        title: 魔法師長
+      appearance:
+        description: 低音の美声
+        hair: 
+        eyes: 
+      personality:
+        front side:
+          - 
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 
+    - name: ロン
+      meta:
+        part:
+          - 1
+      property:
+        full name: ロン・ベルベティカ
+        race: ｜狼獣人《オウクナ》
+        gender: 男
+        age: 19
+        country: アークファイス王国
+        title: カナタの従僕
+      appearance:
+        description: 
+        hair: 
+        eyes: 
+      personality:
+        front side:
+          - 
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 
+    - name: サラ
+      meta:
+        part:
+          - 1
+      property:
+        full name: サラ・ローランド
+        race: ｜猫獣人《ネクト》
+        gender: 女
+        age: 18
+        country: アークファイス王国
+        title: セレスの侍女
+      appearance:
+        description: 
+        hair: 
+        eyes: 
+      personality:
+        front side:
+          - 
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 
+    - name: ゼレスタ
+      meta:
+        part:
+          - 1
+      property:
+        full name: ゼレスタ・レオネル・ガイオン゠ガルド
+        race: 葦人
+        gender: 男
+        age: 58
+        country: ダルクフローゼ王国
+        title: 王
+      appearance:
+        description: 
+        height: 長身
+        hair: ロングの金髪
+        eyes: ネイビーブルー
+        voice: 
+        clothes: 
+      personality:
+        front side:
+          - 女狂い
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 使徒の傀儡
+  apostle:
+    - name: ミリアム
+      meta:
+        part:
+          - 1
+        aps num: 2
+      property:
+        full name: ミリアム・ハイランド
+        race: 葦人
+        gender: 女
+        age: 27
+        country: ダルクフローゼ王国
+        title: 使徒
+      appearance:
+        description: 
+        height: 長身
+        hair: ロングウェーブのブロンド
+        eyes: アイスブルー
+        bust: 豊満
+        voice: 低く妖艶な｜声音《こわね》はしかし軽々しいリズムをしていた
+        clothes: 漆黒のローブ、ローブの内は真っ赤なドレス
+      personality:
+        front side:
+          - 邪悪
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 王は使徒の傀儡
+        - 闇の神の神威
+    - name: アナスタシア（ナーシャ）
+      meta:
+        part:
+          - 1
+        aps num: 3
+      property:
+        full name: アナスタシア・シルバーオール
+        race: 葦人
+        gender: 女
+        age: 21
+        country: ラーズマクトル王国
+        title: 使徒
+      appearance:
+        description: 
+        hair: ショートボブのストロベリーブロンド
+        eyes: スカイブルー
+      personality:
+        theme: 富田さん
+        front side:
+          - 明るい
+          - しっとり
+          - 色っぽい
+          - 健気
+        back side:
+          - 策略家
+        weekness:
+          - 
+      memo:
+        - イギリスの伯爵の娘
+        - 
+    - name: ???
+      meta:
+        part:
+          - 1
+        aps num: 
+      property:
+        full name: 
+        race: 葦人
+        gender: 男
+        age: 18
+        country: 3
+        title: 使徒
+      appearance:
+        description: 
+        hair: 
+        eyes: 
+      personality:
+        front side:
+          - 傲慢
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 戦闘の神の神威
+    - name: ユウコ
+      meta:
+        part:
+          - 1
+        aps num: 
+      property:
+        full name: ユウコ・タカナシ
+        race: 葦人
+        gender: 女
+        age: 18
+        country: 4
+        title: 使徒
+      appearance:
+        description: 
+        hair: 
+        eyes: 
+      personality:
+        front side:
+          - 優しい
+          - 強か
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - カナタのクラスメート
+        - カナタのクラスの委員長
+        - カナタに恋している
+        - 秀才
+    - name: ペトラ
+      meta:
+        part:
+          - 1
+      property:
+        full name: 
+        race: 葦人
+        gender: 女
+        age: 15
+        country: 5
+        title: 使徒
+      appearance:
+        description: 
+        hair: 
+        eyes: 
+      personality:
+        front side:
+          - おとなしい
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 双子
+        - 奴隷状態
+        - 天候の神の神威
+        - 大地の神の神威
+    - name: パメラ
+      meta:
+        part:
+          - 1
+      property:
+        full name: 
+        race: 葦人
+        gender: 女
+        age: 15
+        country: 5
+        title: 使徒
+      appearance:
+        description: 
+        hair: 
+        eyes: 
+      personality:
+        front side:
+          - おとなしい
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 双子
+        - 奴隷状態
+        - 天候の神の神威
+        - 大地の神の神威
+  god:
+    - name: ヴェルザトゥール
+      meta:
+        part:
+          - 1
+      property:
+        full name: ヴェルザトゥール
+        race: 神族
+        gender: 男
+        age: ???
+        country: 
+        title: 主神、全能の神
+      appearance:
+        description: 
+        hair: 
+        eyes: 
+      personality:
+        front side:
+          - 
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 
+    - name: ガーラドルシェ
+      meta:
+        part:
+          - 1
+      property:
+        full name: ガーラドルシェ
+        race: 神族
+        gender: 女
+        age: ???
+        country: 
+        title: 闇、嫉妬
+      appearance:
+        description: 
+        hair: 
+        eyes: 
+      personality:
+        front side:
+          - 
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 
+  existence template:
+    - name: 
+      meta:
+        part:
+          - 1
+      property:
+        full name: 
+        race: 
+        gender: 
+        age: 
+        country: 
+        title: 
+      appearance:
+        description: 
+        hair: 
+        eyes: 
+      personality:
+        front side:
+          - 
+        back side:
+          - 
+        weekness:
+          - 
+      memo:
+        - 
+  country:
+    - name: アークファイス王国
+      meta:
+        part:
+          - 1
+      place: 西寄り
+    - name: ダルクフローゼ王国
+      meta:
+        part:
+          - 1
+      place: 西隣
+    - name: ラーズマクトル王国
+      meta:
+        part:
+          - 1
+      place: 東隣
+    - name: ゼクスヴェルド王国
+      meta:
+        part:
+          - 
+      place: ラーズマクトルの北東
+    - name: 教皇領
+      meta:
+        part:
+          - 1
+      place: 南東の端の山脈を越えると
+    - name: トルメキア帝国
+      meta:
+        part:
+          - 1
+      place: さらに東には不毛の乾燥地帯を挟んで
+  court:
+    - title: 王
+      name: エリア
+      description: 
+    - title: 宮中伯
+      name: グランロレル
+      description: 
+    - title: 兵士長
+      name: 
+      description: 
+    - title: 魔法師長
+      name: 
+      description: 
+    - title: 書記神官
+      name: 
+      description: 
+  sword art:
+    - name: ｜飛斬閃《ひざんせん》
+      description: ｜斬撃《ざんげき》から放たれるのは魔力の｜刃《やいば》だ。高速で飛翔して横5メートルの範囲の魔物が上下に分かたれてくずおれる
+  galdur:
+    - name: エストファイ
+      attribute: 風
+      description: 魔力による気圧断裂の｜刃《やいば》が広範囲に襲い掛かった
+    - name: テスタグラード
+      attribute: 土
+      description: 鉱石を生成して高速で射出した。多分長石だ
+    - name: フィアヘルト
+      attribute: 火
+      description: 火球を放って、｜束《つか》の間燃え続けて酸素と余裕を奪う
+    - name: レキサフィル
+      attribute: 雷
+      description: .3秒の後にセレスの眼前から図太い稲妻が｜迸《ほとばし》った。2条に発せられた｜閃光《せんこう》は2体の腹部に突き刺さる。得物に走らなかった魔法の制御力は賞賛に値するだろう。腹を炭化させた2体は倒れ込んだ。｜痙攣《けいれん》するように微動している。腹部周辺の血液は沸騰しただろうし生きてはいまい
+    - name: フレスティグナ
+      attribute: 光
+      description: ｜閃光《せんこう》魔法、わずかな音を残して小さな光球が打ち上がった。100メートルほどだろう、発光は上空で強烈な輝きとなって地上を照らす
+    - name: ガルフラグナ
+      attribute: 闇
+      description: .5秒の後、漆黒の稲妻が｜迸《ほとばし》った
+    - name: ヴォストダルク
+      attribute: 闇
+      description: 
+    - name: ゲイルザンデ
+      attribute: 闇
+      description: 俺の周囲に魔力が渦巻き――魔法が成るのに2秒。対人戦としては大魔法だろう。足下から闇の｜劫火《ごうか》が噴き上がった励起されたダークマターだろう。炎のような熱放射はないが触れれば素粒子レベルで崩壊するはずだ
+    - name: ベルダ***
+      attribute: 闇
+      description: 

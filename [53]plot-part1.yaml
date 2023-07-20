@@ -1,0 +1,1012 @@
+plot line:
+  - ダルクフローゼとの戦い
+    - 使徒との戦い
+    - ダルクフローゼ王との戦い
+  - 試練
+    - カナタの試練
+    - エリアの試練
+    - サラの試練
+  - 恋
+    - エリアとの恋
+    - サラとの恋
+    - セレスとの恋
+  - 宮廷内の人付き合い
+    - 宮中伯との何か
+    - 兵士長との何か
+episode:
+  - 1: 核爆発の中で転移する
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 力を見せ過ぎて失敗したことを悔いる
+    data:
+      point:
+        - カナタが力を見せ過ぎて裏切られたことを強く悔やんでいる様子を印象づける
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 2: 異世界で状況を知る
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - ダルクフローゼ王と使徒の会話 => 街が包囲される, ダルクフローゼ王を倒す
+            - 魔物の軍勢の試作品はもうすぐできる
+            - 王は悪魔と融合している
+            - 王の部屋には悪魔が控えている
+          - 闇の神についての話題の中で悪魔の性質について知る => ダルクフローゼ王を倒す
+            - 悪魔は通常の倒し方では蘇る
+            - 悪魔は通常は封印するしかない
+            - 悪魔は別世界からの投影
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 本当の力を隠しつつ十分な力を見せられるか
+        - name: エリアの試練
+          content: 神威を得て自身と臣下に力を得られるか
+        - name: サラの試練
+          content: カナタに忠誠を見せられるか
+        - name: エリアとの恋
+          content: 出会い、お互いが好印象を持つ
+        - name: サラとの恋
+          content: 出会い、お互いが好印象を持つ
+        - name: セレスとの恋
+          content: 出会い、お互いが好印象を持つ
+        - name: 宮中伯との何か
+          content: 宮中伯はカナタに好意的な態度を見せつつ裏ではカナタがどんな人間か探っている。別室に誘い込んで精神魔法で本音を聞き出す作戦を実行する
+        - name: 兵士長との何か
+          content: 兵士長はエリアがカナタに謝罪するほど下手に出ていることからカナタに反感を持っている。睨んでいる
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 3: 模擬戦の行方
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 最小の力でエリアに勝つ
+        - name: エリアの試練
+          content: カナタの力を見極める
+        - name: サラの試練
+          content: カナタに忠誠を見せられるか
+        - name: エリアとの恋
+          content: お互いに相手の強さを感じて好印象を持つ
+        - name: サラとの恋
+          content: サラはエリアに勝ったカナタのことを褒める
+        - name: セレスとの恋
+          content: セレスは遠くから見つめるばかり
+        - name: 宮中伯との何か
+          content: 宮中伯は幻影闘技場でカナタがエリアに勝った直後に魔物をけしかける
+        - name: 兵士長との何か
+          content: 兵士長は幻影闘技場での模擬戦を提案する
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 4: ピクニック
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - ドラゴンの話を出す => ドラゴンを手懐ける
+        reveive:
+          - 
+      plot line:
+      - name: カナタの試練
+        content: 空からの魔物に魔法で対処する
+      - name: エリアの試練
+        content: 公私ともにカナタとの関係を良好にできるか
+      - name: サラの試練
+        content: エリアの力になりつつカナタに気持ちを伝えられるか
+      - name: エリアとの恋　
+        content: エリアはカナタが魔法も使えることに感心する。しかも無詠唱で重力魔法
+      - name: サラとの恋
+        content: サラはとにかくカナタが活躍したことが嬉しい
+      - name: セレスとの恋
+        content: セレスはカナタが伝説の魔法を使えることに尊敬の念を持つ。しかも伝説の無詠唱
+      - name: 宮中伯との何か
+        content: 宮中伯はカナタにハニートラップを仕掛ける。殺す意図はないが
+      - name: 兵士長との何か
+        content: 兵士長は余興と称して即席の幻影闘技場で兵に剣の試合をさせ、その流れでカナタとの勝負を持ちかける
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 5: 街が包囲される
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 密度の高い大量の魔力を放出して武威を示す => ドラゴンを手懐ける
+        reveive:
+          - ダルクフローゼ王と使徒の会話
+      plot line:
+        - name: カナタの試練
+          content: 本当の力を隠しつつ街の開放に協力できるか
+        - name: エリアの試練
+          content: 街を開放できるか。カナタと親密になれるか
+        - name: サラの試練
+          content: -
+        - name: エリアとの恋　
+          content: エリアはカナタに助けられて好意を強くする
+        - name: サラとの恋
+          content: -
+        - name: セレスとの恋
+          content: セレスはカナタの力に好意を強くする
+        - name: 宮中伯との何か
+          content: -
+        - name: 兵士長との何か
+          content: 共闘するしてカナタとのわだかまりが消える
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 6: ドラゴンを手懐ける
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - ドラゴンの話を出す => ドラゴン襲来の予兆
+          - 密度の高い大量の魔力を放出して武威を示す => ドラゴンを呼び寄せてしまう
+      plot line:
+        - name: カナタの試練
+          content: 穏便にドラゴンと話をつけられるか
+        - name: エリアの試練
+          content: ドラゴンの脅威から臣下を守れるか
+        - name: サラの試練
+          content: -
+        - name: エリアとの恋　
+          content: エリアはドラゴンを手懐けたカナタに敬服する
+        - name: サラとの恋
+          content: -
+        - name: セレスとの恋
+          content: セレスはドラゴンを手懐けたカナタに畏怖の念を覚える
+        - name: 宮中伯との何か
+          content: -
+        - name: 兵士長との何か
+          content: 兵士長はカナタに頼る
+    data:
+      point:
+        - 妖精が関わる
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 7: ドキドキデート
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 問題に力を使わず対処できるか
+        - name: エリアの試練
+          content: 臣民を守れるか
+        - name: サラの試練
+          content: カナタをデートに快く送り出せるか
+        - name: エリアとの恋　
+          content: エリアの違った一面に出会って魅力を感じる
+        - name: サラとの恋
+          content: サラに対して申し訳ない思いが過る
+        - name: セレスとの恋
+          content: セレスはカナタとエリアがいないことに気づいて気を揉む
+        - name: 宮中伯との何か
+          content: 宮中伯の手の者が街でカナタを襲う
+        - name: 兵士長との何か
+          content: 兵士長は何も知らない
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 8: 村が襲われる
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 本当の力を隠しつつ敵を排除できるか
+        - name: エリアの試練
+          content: 街を開放できるか
+        - name: サラの試練
+          content: カナタを危険な地に送り出す
+        - name: エリアとの恋　
+          content: 使徒との戦いに敗れたエリアはカナタに助けられて自分の中の女とカナタの男を感じる
+        - name: サラとの恋
+          content: サラは何かをカナタに渡す
+        - name: セレスとの恋
+          content: セレスはカナタたちの無事を祈っている
+        - name: 宮中伯との何か
+          content: 宮中伯は手の者を同行させる
+        - name: 兵士長との何か
+          content: 兵士長はカナタを認めるしかなかった
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 9: 城内の秘密
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 10: 狩りに出掛ける
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 監視する者 => 村が襲われ、エリアが連れ去られる
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 11: 村が襲われ、エリアが連れ去られる
+    meta:
+      note:
+        - 狩りの帰路
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 監視する者
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 12: 使徒を倒す
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 13: 水着回
+    meta:
+      note:
+        - 城内でも可（推進は膝上程度、泳ぐ風習はない）
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 14: 兵を集めて進軍を開始する
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 兵を国境近くの平原に集める
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 15: ダルクフローゼ軍と接触して蹴散らす
+    meta:
+      note:
+        - ダルクフローゼ王は各領主の係留神珠を接収すると言っていて従う領主がいない
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 16: 開城された城に宿泊する
+    meta:
+      note:
+        - ダルクフローゼ王に従う領主がおらず、どの領主もエリアたちを迎え入れたため進軍は速やかだった
+      foreshadowing:
+        send:
+          - 領主の娘が仲間に加わる => ダルクフローゼ軍と対峙する
+          - 領主の娘が仲間に加わる => ダルクフローゼ王都を包囲する
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 17: 街で暗殺されかける
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 18: ダルクフローゼ国軍と対峙する
+    meta:
+      note:
+        - 国軍を率いてきた
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 領主の娘が仲間に加わる => 国軍の秘密を伝える
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 悪魔に魂を乗っ取られた領主が城でもてなす際に毒殺を試みられる
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 19: ダルクフローゼ国軍を撃破する
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 20: 森で神獣と出遭う
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 21: ダルクフローゼの巨大な魔物に襲われる
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 22: 
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 23: ダルクフローゼ王都を包囲する
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 領主の娘が仲間に加わる => ダルクフローゼ王都周辺の危険を知らせる
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 24: ダルクフローゼ王を倒す
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - ダルクフローゼ王と使徒の会話
+          - 闇の神についての話題の中で悪魔の性質について知る => 悪魔と一体化したダルクフローゼ王の倒し方を思いつく
+      plot line:
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
+  - 25: 
+    meta:
+      note:
+        - 
+      foreshadowing:
+        send:
+          - 
+        reveive:
+          - 
+      plot line: 
+        - name: カナタの試練
+          content: 
+        - name: エリアの試練
+          content: 
+        - name: サラの試練
+          content: 
+        - name: エリアとの恋　
+          content: 
+        - name: サラとの恋
+          content: 
+        - name: セレスとの恋
+          content: 
+        - name: 宮中伯との何か
+          content: 
+        - name: 兵士長との何か
+          content: 
+    data:
+      point:
+        - 
+      property:
+        day: 
+        time: 
+        place: 
+        character:
+          - 
+          - 
+          - 
+          - 
+      content:
+        - item: 
