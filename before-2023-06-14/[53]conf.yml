@@ -90,7 +90,7 @@ existence:
         gender: 男
         age: 56
         country: アークファイス王国
-        title: 宮中伯
+        title: 宮執伯
       appearance:
         description: 
         hair: 
@@ -529,7 +529,7 @@ existence:
     - title: 王
       name: エリア
       description: 
-    - title: 宮中伯
+    - title: 宮執伯
       name: グランロレル
       description: 
     - title: 兵士長

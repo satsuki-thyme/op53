@@ -16,7 +16,7 @@ property:
       content: カナタに尽くした上で自分の幸せを掴めるか（主への懸想は厳禁だと思っている）
     - name: セレス
       content: 姉王に協力しつつ自身の幸せを掴めるか
-    - name: 宮中伯
+    - name: 宮執伯
       content: 国を守り富ませ金を儲けられるか
     - name: 兵士長
       content: エリアに忠誠を尽くしてエリアを幸せにできるか
@@ -126,7 +126,7 @@ existence:
                   - 
               memo:
                 - 
-            - name: 宮中伯グランロレル
+            - name: 宮執伯グランロレル
               meta:
                 part:
                   - 1
@@ -141,7 +141,7 @@ existence:
                 gender: 男
                 age: 56
                 country: アークファイス王国
-                title: 宮中伯
+                title: 宮執伯
               appearance:
                 description: 
                 hair: 
@@ -624,7 +624,7 @@ existence:
     - title: 王
       name: エリア
       description: 
-    - title: 宮中伯
+    - title: 宮執伯
       name: グランロレル
       description: 
     - title: 兵士長

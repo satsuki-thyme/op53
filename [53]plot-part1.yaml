@@ -11,7 +11,7 @@ plot line:
     - サラとの恋
     - セレスとの恋
   - 宮廷内の人付き合い
-    - 宮中伯との何か
+    - 宮執伯との何か
     - 兵士長との何か
 episode:
   - 1: 核爆発の中で転移する
@@ -69,8 +69,8 @@ episode:
           content: 出会い、お互いが好印象を持つ
         - name: セレスとの恋
           content: 出会い、お互いが好印象を持つ
-        - name: 宮中伯との何か
-          content: 宮中伯はカナタに好意的な態度を見せつつ裏ではカナタがどんな人間か探っている。別室に誘い込んで精神魔法で本音を聞き出す作戦を実行する
+        - name: 宮執伯との何か
+          content: 宮執伯はカナタに好意的な態度を見せつつ裏ではカナタがどんな人間か探っている。別室に誘い込んで精神魔法で本音を聞き出す作戦を実行する
         - name: 兵士長との何か
           content: 兵士長はエリアがカナタに謝罪するほど下手に出ていることからカナタに反感を持っている。睨んでいる
     data:
@@ -109,8 +109,8 @@ episode:
           content: サラはエリアに勝ったカナタのことを褒める
         - name: セレスとの恋
           content: セレスは遠くから見つめるばかり
-        - name: 宮中伯との何か
-          content: 宮中伯は幻影闘技場でカナタがエリアに勝った直後に魔物をけしかける
+        - name: 宮執伯との何か
+          content: 宮執伯は幻影闘技場でカナタがエリアに勝った直後に魔物をけしかける
         - name: 兵士長との何か
           content: 兵士長は幻影闘技場での模擬戦を提案する
     data:
@@ -149,8 +149,8 @@ episode:
         content: サラはとにかくカナタが活躍したことが嬉しい
       - name: セレスとの恋
         content: セレスはカナタが伝説の魔法を使えることに尊敬の念を持つ。しかも伝説の無詠唱
-      - name: 宮中伯との何か
-        content: 宮中伯はカナタにハニートラップを仕掛ける。殺す意図はないが
+      - name: 宮執伯との何か
+        content: 宮執伯はカナタにハニートラップを仕掛ける。殺す意図はないが
       - name: 兵士長との何か
         content: 兵士長は余興と称して即席の幻影闘技場で兵に剣の試合をさせ、その流れでカナタとの勝負を持ちかける
     data:
@@ -189,7 +189,7 @@ episode:
           content: -
         - name: セレスとの恋
           content: セレスはカナタの力に好意を強くする
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: -
         - name: 兵士長との何か
           content: 共闘するしてカナタとのわだかまりが消える
@@ -230,7 +230,7 @@ episode:
           content: -
         - name: セレスとの恋
           content: セレスはドラゴンを手懐けたカナタに畏怖の念を覚える
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: -
         - name: 兵士長との何か
           content: 兵士長はカナタに頼る
@@ -270,8 +270,8 @@ episode:
           content: サラに対して申し訳ない思いが過る
         - name: セレスとの恋
           content: セレスはカナタとエリアがいないことに気づいて気を揉む
-        - name: 宮中伯との何か
-          content: 宮中伯の手の者が街でカナタを襲う
+        - name: 宮執伯との何か
+          content: 宮執伯の手の者が街でカナタを襲う
         - name: 兵士長との何か
           content: 兵士長は何も知らない
     data:
@@ -310,8 +310,8 @@ episode:
           content: サラは何かをカナタに渡す
         - name: セレスとの恋
           content: セレスはカナタたちの無事を祈っている
-        - name: 宮中伯との何か
-          content: 宮中伯は手の者を同行させる
+        - name: 宮執伯との何か
+          content: 宮執伯は手の者を同行させる
         - name: 兵士長との何か
           content: 兵士長はカナタを認めるしかなかった
     data:
@@ -350,7 +350,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -390,7 +390,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -430,7 +430,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -470,7 +470,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -510,7 +510,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -550,7 +550,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -590,7 +590,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -631,7 +631,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -671,7 +671,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -711,7 +711,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -751,7 +751,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -791,7 +791,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -831,7 +831,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -871,7 +871,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -911,7 +911,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -952,7 +952,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
@@ -992,7 +992,7 @@ episode:
           content: 
         - name: セレスとの恋
           content: 
-        - name: 宮中伯との何か
+        - name: 宮執伯との何か
           content: 
         - name: 兵士長との何か
           content: 
