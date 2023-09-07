@@ -82,7 +82,7 @@ existence:
                 description: 傾国の美少女、吹きすさぶ風に立ち向かう戦乙女のように｜凛々《りり》しい
                 hair: ライトゴールドでアップにしている、降ろすと肩下まである
                 eyes: ルビー
-                bust: 小振りな｜林檎《リンゴ》
+                bust: 小振りな｜林檎《りんご》
                 voice: 快活さと誠実さを｜窺《うかが》わせる｜声音《こわね》だ
                 clothes: 衣装は濃青を基調として｜軽甲冑《けいかっちゅう》を｜纏《まと》っている
               personality:
@@ -114,7 +114,7 @@ existence:
                 description: ｜嫋《たお》やかに咲く一輪の｜百合《ユリ》のような傾国の美少女
                 hair: 銀糸のロングヘア
                 eyes: ブルーサファイア
-                bust: 大振りな｜林檎《リンゴ》
+                bust: 大振りな｜林檎《りんご》
                 voice: ｜声音《こわね》は｜淑《しと》やかさを感じさせる
                 clothes: 衣装は薄藤色を基調としてドレスのようだが神聖さを感じさせる
               personality:
@@ -159,7 +159,7 @@ existence:
           - level: division
           - name: 兵士隊
           - content:
-            - name: 兵士長ブレサンド
+            - name: 兵士長フレスト
               meta:
                 part:
                   - 1
@@ -169,7 +169,7 @@ existence:
                 needs:
                   - 
               property:
-                full name: レオナルド・ブレサンド
+                full name: レオナルド・フレスト
                 race: ｜狼獣人《オウクナ》
                 gender: 男
                 age: 32
@@ -216,7 +216,7 @@ existence:
           - level: division
           - name: 魔法師隊
           - content:
-            - name: 魔法師長ジースクエル
+            - name: 魔法師長ジスクエール
               meta:
                 part:
                   - 1
@@ -226,7 +226,7 @@ existence:
                 needs:
                   - 
               property:
-                full name: ライトレフ・クロード・ジースクエル
+                full name: ライトレフ・クロード・ジスクエール
                 race: 葦人
                 gender: 男
                 age: 27
