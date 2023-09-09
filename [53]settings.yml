@@ -1,0 +1,790 @@
+character:
+  - name: カナタ
+    status:
+      meta:
+        desire:
+          - 今を楽しみたい
+          - 力を見せ過ぎないで上手くやりたい
+          - この世界を堪能したい
+          - 自分の力を人の役に立てたい
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+  - name: エリア
+    status:
+      meta:
+        desire:
+          - 臣民の幸せ（この時代の感覚で）
+          - 女の子らしくしたい
+          - 逞しい男性に頼りたい
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+            
+  - name: セレス
+    status:
+      meta:
+        desire:
+          - 姉王の幸せと国の安寧の力になりたい
+          - 病んだ者、傷付いた者、疲れた者を癒やしたい
+          - 素敵な男性に包まれたい
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+  - name: サラ
+    status:
+      meta:
+        desire:
+          - 話をしたい、交流したい
+          - 生まれ育った村と残してきた家族が幸せになるよう力になりたい
+          - 素敵な男性とお話ししたい
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+  - name: 宮中伯ヴァーレ゠ブレッダ
+    status:
+      meta:
+        desire:
+          - 
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+  - name: 兵士長フレスト
+    status:
+      meta:
+        desire:
+          - 
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+  - name: 魔法師長ジスクエール
+    status:
+      meta:
+        desire:
+          - 
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+  - name: 
+    status:
+      meta:
+        desire:
+          - 
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+  - name: 
+    status:
+      meta:
+        desire:
+          - 
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+  - name: 
+    status:
+      meta:
+        desire:
+          - 
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+  - name: 
+    status:
+      meta:
+        desire:
+          - 
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+  - name: 
+    status:
+      meta:
+        desire:
+          - 
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+  - name: 
+    status:
+      meta:
+        desire:
+          - 
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
+
+  - name: 
+    status:
+      meta:
+        desire:
+          - 
+      characteristics:
+        inherent:
+          race: 
+          gender: 
+          age: 
+        physical:
+          outline: |
+
+          height: 
+          weight:
+          hair color:  
+          hair style: 
+          eyes: 
+          3 size:
+            bust: 
+            west: 
+            hip: 
+        personality:
+          outline: |
+
+          features:
+            - 
+            - 
+            - 
+            - 
+        history:
+          parents:
+            father: 
+            mother: 
+            grand father:
+              - 
+              - 
+            grand mother:
+              - 
+              - 
+          birth: 
+          growing environment: |
+
+          pre-independence affaiers:
+            - 
+          post-independence affaiers:
+            - 
+          contacts:
+            - name: 
+              relationship: 
+              episodes:
+                - 
+        etc:
+          trauma: |
+
